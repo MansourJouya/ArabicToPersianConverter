@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Converter
+namespace ArabicToPersianConverter
 {
     /// <summary>
     /// Provides methods for converting Arabic script characters to Persian script characters.
